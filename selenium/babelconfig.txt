@@ -1,0 +1,5 @@
+->  setting es6 configuration
+// https://www.javascripttutorial.net/es6/setting-es6-project-using-babel/
+
+->  ReferenceError: regeneratorRuntime is not defined
+// npm i -D babel-core babel-polyfill babel-preset-es2015 babel-preset-stage-0 babel-loader
